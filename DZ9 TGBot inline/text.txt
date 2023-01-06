@@ -1,0 +1,12 @@
+Oven:Upertyi
+Telec:Babnik
+Bliznec:Razdolbay
+Rak:Domashniy
+Lev:Cheslavnyi
+Deva:Merkantilnyi
+Vesy:Spravedlivyi
+Scorpion:Raschetlivyi
+Strelec:Muden
+Kozerog:Rabotyaga
+Vodoley:Shilo v Jope
+Ryba:Predatel
