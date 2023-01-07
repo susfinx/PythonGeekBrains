@@ -1,5 +1,5 @@
 import telebot
-token='5929940811:AAG5LNbaIDFUaSBsMuOPJxo96v7_oR1ZcII'
+token=''
 bot = telebot.TeleBot(token)
 import random
 
